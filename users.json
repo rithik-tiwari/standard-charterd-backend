@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "hello",
+      "age": "",
+      "unique_id": "a01de48b-f02d-4486-bcd8-2edd72872e5c",
+      "adharcard_number": "hello",
+      "income_proof": "hello",
+      "photo_url": "",
+      "signature_url": "",
+      "adhar_url": "",
+      "dob": "28/09/2003"
+    },
+    {
+      "name": "hello",
+      "age": "",
+      "unique_id": "f7a2e6e0-8c01-45cd-9399-b13bddb42bdb",
+      "adharcard_number": "hello",
+      "income_proof": "hello",
+      "photo_url": "",
+      "signature_url": "",
+      "adhar_url": "",
+      "dob": "28/09/2003"
+    },
+    {
+      "name": "hekki",
+      "age": "",
+      "unique_id": "8affe210-ec7b-4c66-bea5-7abfc8b40d85",
+      "adharcard_number": "o",
+      "income_proof": "o",
+      "photo_url": "",
+      "signature_url": "",
+      "adhar_url": "",
+      "dob": "28/09/2003"
+    }
+  ]
+}
